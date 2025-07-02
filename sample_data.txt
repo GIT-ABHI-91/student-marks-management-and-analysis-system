@@ -1,0 +1,10 @@
+USE student_data;
+
+INSERT INTO student (roll_no, name, dbms_marks, dsa_marks, oopj_marks) VALUES
+(101, 'Aarav Sharma', 78, 85, 80),
+(102, 'Meera Kapoor', 88, 74, 90),
+(103, 'Rohan Mehta', 65, 69, 72),
+(104, 'Ishita Singh', 92, 95, 88),
+(105, 'Karan Patel', 55, 60, 58),
+(106, 'Tanvi Desai', 81, 79, 85),
+(107, 'Aditya Joshi', 70, 76, 68);
